@@ -1,7 +1,9 @@
 Description
 -----------
-
+##### RBT1modularity.R
 The script describes and runs main analytical and plotting steps from Lebedev et al., 2017
+
+
 
 I. Preparation
 --------------
