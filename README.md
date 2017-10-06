@@ -3,6 +3,10 @@ Description
 ##### RBT1modularity.R
 The script describes and runs main analytical and plotting steps from Lebedev et al., 2017
 
+<em>**Author:**</em> Alexander V. Lebedev (Aging Research Center. Karolinska Institutet & Stockholm Univeraity)
+
+<em>**Date:**</em> 2017-10-06
+
 
 
 I. Preparation
