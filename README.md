@@ -621,6 +621,6 @@ ggplot(d) +
   stat_smooth(aes(x = L, y = Modularity, color=task), linetype=2,method = "loess", se = F, size=2, span=0.95, data=dF) +
   coord_cartesian(ylim = c(0.1, 0.23)) + 
   theme_bw()+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) # white background
-  ![](RBT1modularity_files/figure-markdown_github/unnamed-chunk-9-1.png)
 ```
+![](RBT1modularity_files/figure-markdown_github/unnamed-chunk-9-1.png)
 
